@@ -67,3 +67,8 @@ http://localhost:3000
 🎥 Walkthrough Video:
 
 https://drive.google.com/file/d/1JWy6oLTiPnFv1gO8p4SSt7pKGUO3qA8r/view?usp=sharing
+
+*** Live Deployment (Quality & Performance):
+
+Live Link: https://xai-workspace-omega.vercel.app
+
