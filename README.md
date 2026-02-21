@@ -54,7 +54,7 @@ Production optimized build via Next.js
 🚀 How to Run the Project Locally:
 
 1️⃣ Clone the Repository
-git clone <repo-link>
+git clone <https://github.com/ibrahim2102/Xai-workspace>
 cd xai-workspace
 2️⃣ Install Dependencies
 npm install
